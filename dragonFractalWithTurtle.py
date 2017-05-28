@@ -112,7 +112,7 @@ while True:
     moves = getNextFractalString(i)
     app.setProgressTarget(i)
     #print("Doing level " + str(i) + " : Size " + str((2**i)/2+1) + " : Total Size " + str(2**i+1) + "...")
-    app.setState("Drawing Fractal Level")
+    app.setState("Drawing Fractal...")
 
     for move in moves:
         root.update_idletasks()
