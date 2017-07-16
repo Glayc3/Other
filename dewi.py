@@ -1,3 +1,4 @@
+#injoke with m8s don't take this seriously
 from time import sleep
 def speech(text,time):    
     print(text)    
