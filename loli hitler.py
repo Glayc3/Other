@@ -34,5 +34,3 @@ loli_speech = [
 for line in loli_speech:
     print(line)
     sleep(1)
-    
-        
