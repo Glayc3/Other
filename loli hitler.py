@@ -1,13 +1,11 @@
 from time import sleep
 from random import randint as random
 
-hitler = ""
-
 decider = int(random(0,1))
 if decider == 0:
     hitler = "cool"
 elif decider == 1:
-    hitler == "not cool"
+    hitler = "not cool"
 else:
      print("this is a bug")
 
