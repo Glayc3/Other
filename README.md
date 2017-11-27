@@ -1,1 +1,1 @@
-just a place to dump my random crap i do
+This is kinda just where i put other codes I make (python)
