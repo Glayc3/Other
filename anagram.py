@@ -12,4 +12,3 @@ for i in range(123456789):
             pass
     print(i)
     print("NO")
-    sleep(0.05)
