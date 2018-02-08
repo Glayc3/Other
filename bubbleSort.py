@@ -1,9 +1,9 @@
-50x=[]
+x=[]
 
 while True:
     try:
-        x1 = int(input("how long the list (2<=ans>=30)?"))
-        if x1<2 or x1>30:
+        x1 = int(input("how long the list (2<=ans>=50)?"))
+        if x1<2 or x1>50:
             print("invalid number")
         else:
             break
